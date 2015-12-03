@@ -14,11 +14,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.apache.tomcat;
+//package org.apache.tomcat;
 
 /**
  * Contains no functionality since it is only used tp test the code source
  * assigned to the class.
  */
-public class Bug58096 {
-}
+//public class Bug58096 {
+//}
